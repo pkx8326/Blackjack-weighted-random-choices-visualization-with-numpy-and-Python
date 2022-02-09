@@ -7,4 +7,5 @@ In this case, if the point is less than or equal to 17, the probability of the c
 
 The following bar chart shows the times out of 100 times the computer will draw another card for each of its point:
 
-![image](https://user-images.githubusercontent.com/65524471/153182020-c45872b9-149a-49be-a26b-63661bed3832.png)
+![image](https://user-images.githubusercontent.com/65524471/153182591-048b0f62-2bdb-41b0-be2d-c45d44531881.png)
+
