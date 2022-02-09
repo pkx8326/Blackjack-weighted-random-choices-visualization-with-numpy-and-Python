@@ -9,4 +9,4 @@ The following bar chart shows the times out of 100 times the computer will draw 
 
 ![image](https://user-images.githubusercontent.com/65524471/153182930-1b6935f9-2756-4a5f-adb0-df877916294e.png)
 
-The visualiztion can look totally different if the computer is given a different set of probabilities.
+The visualiztion can differ from what's shown here if the computer is given a different set of probabilities.
